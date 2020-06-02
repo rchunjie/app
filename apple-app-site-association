@@ -1,0 +1,12 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "JRJGSF2T2X.com.tongji.autoparts.test",
+            "paths": ["/abc/*"]
+            }]
+    },
+    "webcredentials":{
+    "apps":["JRJGSF2T2X.com.tongji.autoparts.test"]
+    }
+}
